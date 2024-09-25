@@ -88,10 +88,10 @@ general_phrases = {
     ],
     # Name
     'what’s your name?': [
-        "My name is Igor, what about you?",
-        "I'm Igor, a bot.",
-        "You can call me Igor.",
-        "Just Igor. What's your name?",
+        "My name is Mark, what about you?",
+        "I'm Mark, a bot.",
+        "You can call me Mark.",
+        "Just Mark. What's your name?",
     ],
     # Farewell
     'bye': [
